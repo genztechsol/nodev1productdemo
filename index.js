@@ -11,9 +11,6 @@ app.use(bodyParser.json())
 
 routes.setUpRoutes(app)
 
-app.use("/", (req, res) => {
-    res.send({status:"hello world"})
-})
 
 app.listen(3000, () => {
     console.log("server started at port number 3000")
