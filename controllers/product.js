@@ -46,7 +46,7 @@ router.get("/", async (req, res) => {
     try {
     //   const {Product_type, category} = req.query 
       
-      const data = await productServices.getProducts()
+    //   const data = await productServices.getProducts()
       res.status(200).send(PRODUCT_DATA)
     }
     catch(e) {
