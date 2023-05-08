@@ -3,15 +3,51 @@ const productServices = require('../services/product')
 
 const router = express.Router();
 
+let PRODUCT_DATA = {
+    "products": [
+        {
+            "id": 1,
+            "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1%2FApples.jpg&w=3840&q=75",
+            "discount": 20,
+            "discount_price": 80,
+            "original_price": 100,
+            "quantity": 0,
+            "Product_type": "grocery",
+            "category": "vegtables",
+            "product_name": "potato"
+        },
+        {
+            "id": 2,
+            "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1%2FApples.jpg&w=3840&q=75",
+            "discount": 20,
+            "discount_price": 80,
+            "original_price": 100,
+            "quantity": 0,
+            "Product_type": "grocery",
+            "category": "fruits",
+            "product_name": "apple"
+        },
+        {
+            "id": 3,
+            "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1%2FApples.jpg&w=3840&q=75",
+            "discount": 20,
+            "discount_price": 80,
+            "original_price": 100,
+            "quantity": 0,
+            "Product_type": "grocery",
+            "category": "fruits",
+            "product_name": "banana"
+        }
+    ]
+}
+
 //get all products data
 router.get("/", async (req, res) => {
     try {
-    //   const params = req.params
-    //   const query = req.query
-    //   console.log('query', query);
-    //   console.log('params', params);
+    //   const {Product_type, category} = req.query 
+      
       const data = await productServices.getProducts()
-      res.status(200).send({products:data})
+      res.status(200).send(PRODUCT_DATA)
     }
     catch(e) {
         res.status(500).send({error:e.message})
