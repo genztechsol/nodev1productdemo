@@ -1,0 +1,57 @@
+[
+    {
+        "id": 27,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F183%2FSignatureSalmon_fstp4m.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 4.95,
+        "original_price": 4.95,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "fresh_fish",
+        "product_name": "Signature Salmon"
+    },
+    {
+        "id": 28,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F184%2Fcodfillet_u0mti1.jpg&w=3840&q=75",
+        "discount": 25,
+        "discount_price": 7.5,
+        "original_price": 10,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "fresh_fish",
+        "product_name": "Cod Fillet"
+    },
+    {
+        "id": 29,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F185%2Fswordfish_smniuv.jpg&w=3840&q=75",
+        "discount": 25,
+        "discount_price": 7.5,
+        "original_price": 10,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "fresh_fish",
+        "product_name": "sword fish"
+    },
+    {
+        "id": 30,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F186%2Fhalibut_jaz7ju.jpg&w=3840&q=75",
+        "discount": 20,
+        "discount_price": 12,
+        "original_price": 15,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "fresh_fish",
+        "product_name": "Halibut fillet"
+    },
+    {
+        "id": 31,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F187%2FTilapiaFillet_a2urhk.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 7.89,
+        "original_price": 7.89,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "fresh_fish",
+        "product_name": "Tilapia fillet"
+    }
+]

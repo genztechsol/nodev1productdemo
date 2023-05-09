@@ -2,14 +2,18 @@ const express = require("express");
 const productServices = require('../services/product')
 const FRUITS_JSON = require("../jsons/fruits.json")
 const VEGTABLES_JSON = require("../jsons/vegtables.json")
+const FISH_JSON = require('../jsons/fish.json')
+const MEAT_JSON = require('../jsons/meat.json')
+const NUTS_ANND_BISCUITS_JSON = require('../jsons/nutsAndBiscuits.json')
+
+
 const router = express.Router();
 
 
 //get all products data
 // router.get("/", async (req, res) => {
 //     try {
-//     const {category} = req.query 
-//     console.log(category);
+//     const  { category } = req.query
 //      const data = await productServices.getProducts(category)
 //       res.status(200).send(data)
 //     }
@@ -97,9 +101,17 @@ router.get("/", async (req, res) => {
         if (Product_type === 'grocery' && category === "vegetables") {
             return res.status(200).send({data:VEGTABLES_JSON})
         }
-
         else if (Product_type === 'grocery' && category === "fruits") {
             return res.status(200).send({data:FRUITS_JSON})
+        }
+        else if (Product_type === 'grocery' && category === "fresh_fish") {
+            return res.status(200).send({data:FISH_JSON})
+        }
+        else if (Product_type === 'grocery' && category === "meat") {
+            return res.status(200).send({data:MEAT_JSON})
+        }
+        else if (Product_type === 'grocery' && category === "nuts_and_biscuits") {
+            return res.status(200).send({data:NUTS_ANND_BISCUITS_JSON})
         }
     }
     catch (e) {

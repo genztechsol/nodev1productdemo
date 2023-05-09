@@ -1,0 +1,57 @@
+[
+    {
+        "id": 32,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F188%2Fbeef_xkxhnb.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 6,
+        "original_price": 6,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "meat",
+        "product_name": "Beef"
+    },
+    {
+        "id": 33,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F189%2Fsliced_turkey_breast_szb8jg.jpg&w=3840&q=75",
+        "discount": 12,
+        "discount_price": 7.5,
+        "original_price": 8.5,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "meat",
+        "product_name": "Sliced Turkey Breast"
+    },
+    {
+        "id": 34,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F190%2Fchicken_thigh_yrdfwh.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 7.89,
+        "original_price": 7.89,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "meat",
+        "product_name": "Chicken Thighs"
+    },
+    {
+        "id": 35,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F191%2Fchicken_brest_ribcxo.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 9,
+        "original_price": 9,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "meat",
+        "product_name": "Chicken Breast"
+    },
+    {
+        "id": 36,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F192%2Fsteak_okxpjo.jpg&w=3840&q=75",
+        "discount": 20,
+        "discount_price": 12,
+        "original_price": 15,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "meat",
+        "product_name": "Beef Steak"
+    }
+]

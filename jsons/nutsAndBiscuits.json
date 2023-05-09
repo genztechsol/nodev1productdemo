@@ -1,0 +1,222 @@
+[
+    {
+        "id": 37,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F193%2Fbelmont_custard_cream.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 5,
+        "original_price": 5,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "nuts_and_biscuits",
+        "product_name": "Belmont Custard Cream"
+    },
+    {
+        "id": 38,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F194%2Fcrawford_digestives.jpg&w=3840&q=75",
+        "discount": 19,
+        "discount_price": 6.5,
+        "original_price": 8,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "nuts_and_biscuits",
+        "product_name": "Crawford Digestives"
+    },
+    {
+        "id": 39,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F195%2Fcrawford_shortie.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 5,
+        "original_price": 5,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "nuts_and_biscuits",
+        "product_name": "Crawford Shortie"
+    },
+    {
+        "id": 40,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F196%2FHill_Biscuits_Mini_Pack_Mix_.jpg&w=3840&q=75",
+        "discount": 25,
+        "discount_price": 7.5,
+        "original_price": 10,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "nuts_and_biscuits",
+        "product_name": "Hill Mini Pack Mix"
+    },
+    {
+        "id": 41,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F197%2FJammie_Dodgers.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 7,
+        "original_price": 7,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "nuts_and_biscuits",
+        "product_name": "Jammie Dodgers Raspberry"
+    },
+    {
+        "id": 42,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F198%2Fjulis_cheese_crackers.jpg&w=3840&q=75",
+        "discount": 38,
+        "discount_price": 5,
+        "original_price": 8,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "nuts_and_biscuits",
+        "product_name": "Juli S Cheese Crackers"
+    },
+    {
+        "id": 43,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F199%2Fkhong_guan_orange_cream.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 5,
+        "original_price": 5,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "nuts_and_biscuits",
+        "product_name": "Khong Guan Orange Cream"
+    },
+    {
+        "id": 44,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F200%2Fkhong_guan_premium_marie.jpg&w=3840&q=75",
+        "discount": 25,
+        "discount_price": 6,
+        "original_price": 8,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "nuts_and_biscuits",
+        "product_name": "Khong Guan Premium Marie"
+    },
+    {
+        "id": 45,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F201%2Flotus_biscoff.jpg&w=3840&q=75",
+        "discount": 25,
+        "discount_price": 7.5,
+        "original_price": 10,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "nuts_and_biscuits",
+        "product_name": "Lotus Biscoff"
+    },
+    {
+        "id": 46,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F236%2Fbadia_pinenuts.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 10,
+        "original_price": 10,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "nuts_and_biscuits",
+        "product_name": "Badia Pine Nuts"
+    },
+    {
+        "id": 47,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F237%2Fcacao_cashew.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 8,
+        "original_price": 8,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "nuts_and_biscuits",
+        "product_name": "Cacao Cashew Nuts"
+    },
+    {
+        "id": 48,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F238%2Ffisher_peanut.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 12,
+        "original_price": 16,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "nuts_and_biscuits",
+        "product_name": "Fisher Peanuts Ready Salted"
+    },
+    {
+        "id": 49,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F239%2FFruits-And-Nuts-Full-Meal-Bottle-Front.jpg&w=3840&q=75",
+        "discount": 23,
+        "discount_price": 12.25,
+        "original_price": 16,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "nuts_and_biscuits",
+        "product_name": "Simply Natural Fruits And Nuts"
+    },
+    {
+        "id": 50,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F240%2FFruits-And-Nuts-Full-Meal-Packet.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 7,
+        "original_price": 7,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "nuts_and_biscuits",
+        "product_name": "Simply Natural Fruits And Nuts Meal Pack"
+    },
+    {
+        "id": 51,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F241%2Fivory_cashewnut.jpg&w=3840&q=75",
+        "discount": 27,
+        "discount_price": 5.5,
+        "original_price": 7.5,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "nuts_and_biscuits",
+        "product_name": "Ivory Cashew Nuts"
+    },
+    {
+        "id": 52,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F242%2Fjaybee_whole_cashewnut.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 5,
+        "original_price": 5,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "nuts_and_biscuits",
+        "product_name": "Jaybees Whole Cashew Nuts"
+    },
+    {
+        "id": 53,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F243%2Fkirkland_mixed_nuts.jpg&w=3840&q=75",
+        "discount": 32,
+        "discount_price": 15,
+        "original_price": 22,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "nuts_and_biscuits",
+        "product_name": "Kirkland Mixed Nuts"
+    },
+    {
+        "id": 54,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F244%2Fnatural_cashewnut.jpg&w=3840&q=75",
+        "discount": 25,
+        "discount_price": 7.5,
+        "original_price": 10,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "nuts_and_biscuits",
+        "product_name": "Natural Nuts"
+    },
+    {
+        "id": 55,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F245%2Fplanter_cashewnut.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 10,
+        "original_price": 10,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "nuts_and_biscuits",
+        "product_name": "Planter Cashewnut"
+    },
+    {
+        "id": 56,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F246%2Fplanters_honey_roasted.jpg&w=3840&q=75",
+        "discount": 20,
+        "discount_price": 12,
+        "original_price": 15,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "nuts_and_biscuits",
+        "product_name": "Planter Honey Roasted"
+    }
+]

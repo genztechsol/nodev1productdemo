@@ -14,7 +14,7 @@ const PRODUCT = 'product'
 
 const getAllproduct = async (category) => {
     try{
-     let data = await knex(PRODUCT).where({category:category})
+     let data = await knex(PRODUCT).where({category})
      return data
     }
     catch(e){
