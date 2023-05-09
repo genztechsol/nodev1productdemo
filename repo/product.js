@@ -1,4 +1,5 @@
-const knex = require('knex')({
+const knex = require('knex')
+({
     client: "mysql2",
     connection: {
       host: "localhost",
@@ -11,9 +12,9 @@ const knex = require('knex')({
 
 const PRODUCT = 'product'
 
-const getAllproduct = async () => {
+const getAllproduct = async (category) => {
     try{
-     let data = await knex(PRODUCT)
+     let data = await knex(PRODUCT).where({category:category})
      return data
     }
     catch(e){

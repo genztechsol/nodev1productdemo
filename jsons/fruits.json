@@ -1,0 +1,101 @@
+[
+    {
+        "id": 16,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F3%2Fblueberries.jpg&w=3840&q=75",
+        "discount": 20,
+        "discount_price": 3,
+        "original_price": 0,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "fruits",
+        "product_name": "Blueberries"
+    },
+    {
+        "id": 17,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F6%2Fclementines.jpg&w=3840&q=75",
+        "discount": 17,
+        "discount_price": 3,
+        "original_price": 3,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "fruits",
+        "product_name": "Clementines"
+    },
+    {
+        "id": 18,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F10%2FDates.jpg&w=3840&q=75",
+        "discount": 17,
+        "discount_price": 8,
+        "original_price": 10,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "fruits",
+        "product_name": "Dates"
+    },
+    {
+        "id": 19,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F11%2FFrenchGreenBeans.jpg&w=3840&q=75",
+        "discount": 20,
+        "discount_price": 1,
+        "original_price": 2,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "fruits",
+        "product_name": "French Green Beans"
+    },
+    {
+        "id": 20,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F14%2FMangoes.jpg&w=3840&q=75",
+        "discount": 20,
+        "discount_price": 3,
+        "original_price": 3,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "fruits",
+        "product_name": "Mangoes"
+    },
+    {
+        "id": 21,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F16%2Fpears.jpg&w=3840&q=75",
+        "discount": 13,
+        "discount_price": 4,
+        "original_price": 4,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "fruits",
+        "product_name": "Pears"
+    },
+    {
+        "id": 22,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F18%2FRedCherries.jpg&w=3840&q=75",
+        "discount": 10,
+        "discount_price": 2,
+        "original_price": 2,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "fruits",
+        "product_name": "cherry"
+    },
+    {
+        "id": 23,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F19%2Fstrawberry.jpg&w=3840&q=75",
+        "discount": 20,
+        "discount_price": 10,
+        "original_price": 8,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "fruits",
+        "product_name": "Strawberry"
+    },
+    {
+        "id": 24,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1%2FApples.jpg&w=3840&q=75",
+        "discount": 20,
+        "discount_price": 2,
+        "original_price": 2,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "fruits",
+        "product_name": "apple"
+    }
+]

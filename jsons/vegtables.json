@@ -1,0 +1,123 @@
+[
+    {
+        "id": 5,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F2%2FBabySpinach.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 0,
+        "original_price": 1,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "vegtables",
+        "product_name": "Baby Spinach"
+    },
+    {
+        "id": 6,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F4%2FBrusselsSprouts.jpg&w=3840&q=75",
+        "discount": 40,
+        "discount_price": 4,
+        "original_price": 5,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "vegtables",
+        "product_name": "Brussels Sprouts"
+    },
+    {
+        "id": 7,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F4%2FBrusselsSprouts.jpg&w=3840&q=75",
+        "discount": 20,
+        "discount_price": 4,
+        "original_price": 5,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "vegtables",
+        "product_name": "Sweet Corn"
+    },
+    {
+        "id": 8,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F8%2FCucumber.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 3,
+        "original_price": 3,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "vegtables",
+        "product_name": "Cucumber"
+    },
+    {
+        "id": 9,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F12%2FGreenBeans.jpg&w=3840&q=75",
+        "discount": 20,
+        "discount_price": 4,
+        "original_price": 5,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "vegtables",
+        "product_name": "Green Beans"
+    },
+    {
+        "id": 10,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F13%2FGreenLimes.jpg&w=3840&q=75",
+        "discount": 25,
+        "discount_price": 2,
+        "original_price": 2,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "vegtables",
+        "product_name": "Lime"
+    },
+    {
+        "id": 11,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F15%2FMiniPeppers.jpg&w=3840&q=75",
+        "discount": 17,
+        "discount_price": 5,
+        "original_price": 6,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "vegtables",
+        "product_name": "Lime"
+    },
+    {
+        "id": 12,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F17%2FPeeled-Carrots.jpg&w=3840&q=75",
+        "discount": 12,
+        "discount_price": 2,
+        "original_price": 3,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "vegtables",
+        "product_name": "Peeled Baby Carrot"
+    },
+    {
+        "id": 13,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F20%2FVeggiePlatter.jpg&w=3840&q=75",
+        "discount": 12,
+        "discount_price": 3,
+        "original_price": 4,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "vegtables",
+        "product_name": "Mix Vegtables Platter"
+    },
+    {
+        "id": 14,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F21%2FYellow-Limes.jpg&w=3840&q=75",
+        "discount": 20,
+        "discount_price": 1,
+        "original_price": 2,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "vegtables",
+        "product_name": "Lemon"
+    },
+    {
+        "id": 15,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F5%2FCelerySticks.jpg&w=3840&q=75",
+        "discount": 17,
+        "discount_price": 5,
+        "original_price": 6,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "vegtables",
+        "product_name": "Celery Sticks"
+    }
+]

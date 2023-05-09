@@ -1,7 +1,7 @@
 const productRepo = require('../repo/product')
 
 
-const getProducts = async () => {
+const getProducts = async (category) => {
     // if (!Product_type) {
     //     throw new Error('please send product type in params')
     //  }
@@ -10,7 +10,7 @@ const getProducts = async () => {
     //    throw new Error('please send category in params')
     //  }
 
-    const data = await productRepo.getAllproduct()
+    const data = await productRepo.getAllproduct(category)
     return data
 }
 

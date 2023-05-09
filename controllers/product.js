@@ -1,58 +1,24 @@
 const express = require("express");
 const productServices = require('../services/product')
-
+const FRUITS_JSON = require("../jsons/fruits.json")
+const VEGTABLES_JSON = require("../jsons/vegtables.json")
 const router = express.Router();
 
-let PRODUCT_DATA = {
-    "products": [
-        {
-            "id": 1,
-            "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1%2FApples.jpg&w=3840&q=75",
-            "discount": 20,
-            "discount_price": 80,
-            "original_price": 100,
-            "quantity": 0,
-            "Product_type": "grocery",
-            "category": "vegtables",
-            "product_name": "potato"
-        },
-        {
-            "id": 2,
-            "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1%2FApples.jpg&w=3840&q=75",
-            "discount": 20,
-            "discount_price": 80,
-            "original_price": 100,
-            "quantity": 0,
-            "Product_type": "grocery",
-            "category": "fruits",
-            "product_name": "apple"
-        },
-        {
-            "id": 3,
-            "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F1%2FApples.jpg&w=3840&q=75",
-            "discount": 20,
-            "discount_price": 80,
-            "original_price": 100,
-            "quantity": 0,
-            "Product_type": "grocery",
-            "category": "fruits",
-            "product_name": "banana"
-        }
-    ]
-}
 
 //get all products data
-router.get("/", async (req, res) => {
-    try {
-    //   const {Product_type, category} = req.query 
-      
-    //   const data = await productServices.getProducts()
-      res.status(200).send(PRODUCT_DATA)
-    }
-    catch(e) {
-        res.status(500).send({error:e.message})
-    }
-})
+// router.get("/", async (req, res) => {
+//     try {
+//     const {category} = req.query 
+//     console.log(category);
+//      const data = await productServices.getProducts(category)
+//       res.status(200).send(data)
+//     }
+//     catch(e) {
+//         res.status(500).send({error:e.message})
+//     }
+// })
+
+
 
 //get product details by id
 // router.get("/:id", (req, res) => {
@@ -110,5 +76,38 @@ router.delete("/:id", async (req, res) => {
        res.status(500).send({error:e.message})
     }
 })
+
+//*********************************************************************** */
+//************************************************************************** */
+//STATIC ROUTES
+
+router.get("/", async (req, res) => {
+
+    try{
+        const {Product_type, category} = req.query 
+        if  (!Product_type) {
+            throw new Error ('please send Product_type in params')
+        }
+        
+        if  (!category) {
+            throw new Error ('please send Product_type in params')
+        }
+
+        if (Product_type === 'grocery' && category === "vegtables") {
+            return res.status(200).send({data:VEGTABLES_JSON})
+        }
+
+        else if (Product_type === 'grocery' && category === "fruits") {
+            return res.status(200).send({data:FRUITS_JSON})
+        }
+    }
+    catch (e) {
+      res.status(500).send({error:e.message})
+    }
+
+})
+
+
+
 
 module.exports = router;
