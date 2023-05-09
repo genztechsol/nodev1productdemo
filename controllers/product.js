@@ -85,15 +85,16 @@ router.get("/", async (req, res) => {
 
     try{
         const {Product_type, category} = req.query 
+
         if  (!Product_type) {
             throw new Error ('please send Product_type in params')
         }
         
         if  (!category) {
-            throw new Error ('please send Product_type in params')
+            throw new Error ('please send category in params')
         }
 
-        if (Product_type === 'grocery' && category === "vegtables") {
+        if (Product_type === 'grocery' && category === "vegetables") {
             return res.status(200).send({data:VEGTABLES_JSON})
         }
 

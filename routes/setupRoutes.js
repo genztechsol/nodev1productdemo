@@ -2,7 +2,7 @@ const productController = require('../controllers/product')
 
 
 const setUpRoutes = (app) => {
-    app.use("/product",  productController)
+    app.use("/products",  productController)
 }
 
 module.exports.setUpRoutes = setUpRoutes
