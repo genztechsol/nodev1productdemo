@@ -5,6 +5,11 @@ const VEGTABLES_JSON = require("../jsons/vegtables.json")
 const FISH_JSON = require('../jsons/fish.json')
 const MEAT_JSON = require('../jsons/meat.json')
 const NUTS_ANND_BISCUITS_JSON = require('../jsons/nutsAndBiscuits.json')
+const CHOCOLATES_JSON = require('../jsons/chocolates.json')
+const CRISPS_JSON = require('../jsons/crisps.json')
+// const NOODLESS_AND_PASTA_JSON = require('../jsons/noodlesAndPasta.json')
+// const SAUCE_JSON = require('../jsons/sauce.json')
+// const SOUP_JSON = require('../jsons/soup.json')
 
 
 const router = express.Router();
@@ -112,6 +117,12 @@ router.get("/", async (req, res) => {
         }
         else if (Product_type === 'grocery' && category === "nuts_and_biscuits") {
             return res.status(200).send({data:NUTS_ANND_BISCUITS_JSON})
+        }
+        else if (Product_type === 'grocery' && category === "chocolates") {
+            return res.status(200).send({data:CHOCOLATES_JSON})
+        }
+        else if (Product_type === 'grocery' && category === "crisps") {
+            return res.status(200).send({data:CRISPS_JSON})
         }
     }
     catch (e) {

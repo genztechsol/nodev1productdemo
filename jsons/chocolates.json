@@ -1,0 +1,134 @@
+[
+    {
+        "id": 57,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F202%2Fartiach_filipino.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 4,
+        "original_price": 4,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "chocolates",
+        "product_name": "Filipinos"
+    },
+    {
+        "id": 58,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F203%2Fcadbury_dairy_milk_crispello.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 2.5,
+        "original_price": 2.5,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "chocolates",
+        "product_name": "Dairy Milk Crispello"
+    },
+    {
+        "id": 59,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F204%2Fcadbury_zip.jpg&w=3840&q=75",
+        "discount": 28,
+        "discount_price": 2.9,
+        "original_price": 4,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "chocolates",
+        "product_name": "Cadbury Zip"
+    },
+    {
+        "id": 60,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F205%2Fcadbury-dairy-milk-reclose.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 3.5,
+        "original_price": 3.5,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "chocolates",
+        "product_name": "Dairy Milk Reclose"
+    },
+    {
+        "id": 61,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F206%2Fcloetta.jpg&w=3840&q=75",
+        "discount": 17,
+        "discount_price": 2.5,
+        "original_price": 3,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "chocolates",
+        "product_name": "Cloetta Chocowoffle Crispy"
+    },
+    {
+        "id": 62,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F207%2Fcloetta_sprinkle.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 3,
+        "original_price": 3,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "chocolates",
+        "product_name": "Cloetta Sprinkle"
+    },
+    {
+        "id": 63,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F208%2Fhersheys_kisses.jpg&w=3840&q=75",
+        "discount": 30,
+        "discount_price": 3.5,
+        "original_price": 5,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "chocolates",
+        "product_name": "Hersheys Kisses"
+    },
+    {
+        "id": 64,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F209%2Fm%2526m_funsize.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 1,
+        "original_price": 1,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "chocolates",
+        "product_name": "M & M Funsize"
+    },
+    {
+        "id": 65,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F210%2Fnestle_butterfinger.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 1,
+        "original_price": 1,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "chocolates",
+        "product_name": "Nestle Butterfinger"
+    },
+    {
+        "id": 66,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F211%2Fnestle_kitkat.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 1,
+        "original_price": 1,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "chocolates",
+        "product_name": "Nestle Kitkat"
+    },
+    {
+        "id": 67,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F212%2Fsnikers_slice.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 3,
+        "original_price": 3,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "chocolates",
+        "product_name": "Snikers Slice"
+    },
+    {
+        "id": 68,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F213%2Fsnikers_snacksize.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 3,
+        "original_price": 3,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "chocolates",
+        "product_name": "Snikers Snack Size"
+    }
+]

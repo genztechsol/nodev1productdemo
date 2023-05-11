@@ -1,0 +1,156 @@
+[
+    {
+        "id": 69,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F214%2Fcottage_bbq.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 1,
+        "original_price": 1,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "crisps",
+        "product_name": "Wise Cottage Fires Bbq"
+    },
+    {
+        "id": 70,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F215%2Fcrisps-puzzle.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 0.6,
+        "original_price": 0.6,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "crisps",
+        "product_name": "Puzzles Crips Ready Salted"
+    },
+    {
+        "id": 71,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F216%2Fdoritos.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 1,
+        "original_price": 1,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "crisps",
+        "product_name": "Doritos Tangy Cheese"
+    },
+    {
+        "id": 72,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F217%2Flays_baked.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 1.5,
+        "original_price": 1.5,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "crisps",
+        "product_name": "Lays Baked"
+    },
+    {
+        "id": 73,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F218%2Flays_sea_salted.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 1.2,
+        "original_price": 1.2,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "crisps",
+        "product_name": "Lays Sea Salted"
+    },
+    {
+        "id": 74,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F219%2Flays-kettle-cooked.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 1,
+        "original_price": 1,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "crisps",
+        "product_name": "Lays Kettle Cooked"
+    },
+    {
+        "id": 75,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F220%2Flays-sour-cream.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 1.5,
+        "original_price": 1.5,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "crisps",
+        "product_name": "Lays Sour Cream"
+    },
+    {
+        "id": 76,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F221%2Fnims_apple_fruit.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 1.5,
+        "original_price": 1.5,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "crisps",
+        "product_name": "Nims Apple Crisp"
+    },
+    {
+        "id": 77,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F222%2FReady-Salted-Crisps.jpg&w=3840&q=75",
+        "discount": 40,
+        "discount_price": 3.5,
+        "original_price": 5,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "crisps",
+        "product_name": "Snack Rite Ready Saled"
+    },
+    {
+        "id": 78,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F223%2FRoysters_6pk.jpg&w=3840&q=75",
+        "discount": 16,
+        "discount_price": 4.2,
+        "original_price": 5,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "crisps",
+        "product_name": "Roysters Bubbled Crips"
+    },
+    {
+        "id": 79,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F224%2Fsnackrite_bags.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 5,
+        "original_price": 5,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "crisps",
+        "product_name": "Snackrite Cheese Onion"
+    },
+    {
+        "id": 80,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F225%2Ftayto_cheese_onion.jpg&w=3840&q=75",
+        "discount": 37,
+        "discount_price": 1.75,
+        "original_price": 2.8,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "crisps",
+        "product_name": "Tayto Cheese Onion"
+    },
+    {
+        "id": 81,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F226%2Ftayto_pickled_onion.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 1,
+        "original_price": 1,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "crisps",
+        "product_name": "Tayto Pickled Onion"
+    },
+    {
+        "id": 82,
+        "image_url": "https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F227%2Fwalkers_cheese_onion.jpg&w=3840&q=75",
+        "discount": 0,
+        "discount_price": 2.5,
+        "original_price": 2.5,
+        "quantity": 0,
+        "Product_type": "grocery",
+        "category": "crisps",
+        "product_name": "Walkers Cheese Onion"
+    }
+]
